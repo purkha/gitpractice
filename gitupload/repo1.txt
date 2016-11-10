@@ -1,5 +1,5 @@
-firstfile v3
+firstfile v4
 
-<working directory> -- <index> -- <head>
+<working directory> -- <index> -- <head> ----- <remote>
 
 Status: 
