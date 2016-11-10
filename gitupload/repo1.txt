@@ -1,0 +1,5 @@
+firstfile v2
+
+<working directory> -- <index>
+
+Status: OK
